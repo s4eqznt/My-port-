@@ -1,2 +1,4 @@
-<img width="1008" height="720" alt="Screenshot 2026-07-16 21 20 32" src="https://github.com/user-attachments/assets/ac8499e5-c4b5-4290-818d-9d48a1f3a9f9" />
-
+# เกียรติบัตรกิจกรรม
+<h2>ได้รับรางวัลระดับเหรียญเงิน รองชนะเลิศอันดับที่ ๒
+กิจกรรม การแข่งขันวงดนตรีร่วมสมัย (Contemporary Ensemble)</h2>
+<img width="975" height="721" alt="Screenshot 2026-07-16 21 18 44" src="https://github.com/user-attachments/assets/31781899-116f-4f5c-8727-97afb39c3566" />

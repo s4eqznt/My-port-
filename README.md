@@ -1,4 +1,5 @@
 # My Profile🖊️
+[myprogram](myprogram.py)
 <br>
 <img width=250" height="350" alt="ไม่มีชื่อ 27_20260715232731" src="https://github.com/user-attachments/assets/5a16bac9-c17e-4c3b-8fd6-01396eede5b5" />
 

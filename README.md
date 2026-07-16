@@ -19,6 +19,6 @@
 | เกียรติบัตร3 | [Click Here](gbt3.md) |
 | เกียรติบัตร4 | [Click Here](gbt4.md) |
 | รูปกิจกรรม 🎹| [Click Here](gjk2.md) |
-| รูปกิจกรรม ✒️| [Click Here](gjk3.md)|
-| รูปกิจกรรม | [Click Here](gjk5.md) |
+| รูปกิจกรรม 📸| [Click Here](gjk3.md)|
+| รูปกิจกรรม ✒️| [Click Here](gjk5.md) |
 ---
